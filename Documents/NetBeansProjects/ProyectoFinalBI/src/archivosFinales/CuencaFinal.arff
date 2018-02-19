@@ -1,0 +1,78 @@
+@relation consultapopular
+
+@attribute 'tweet' string
+@attribute 'class' {SI, NO}
+@data 
+
+'Diversas voces se pronucian por el SI Les compartimos la agenda de voceros de hoy#ObvioQueS #7VecesS', SI
+'Este 4 de Febrero vamos todos juntos a votar #7VecesS y a celebrar esta fiesta electoral donde el nico ganador s  ', SI
+'Seguimos #7VecesSi Iniciamos la caravana por el SI est vez desde la parroquia Baos. Nos alegra que la ciudad  ', SI
+'@CarlosVerareal Por que de un tiempo ac quieren decir a todo todito NO #VotaTodoS, ', SI
+'@DanieLocro Jajajaja si si 7 veces si, ', SI
+'@dorissoliz @MashiRafael A TODO DILE SI  Solo un soberbio asnorante votara NO en algo  Todos #7VecesSi  SI SI SI SI SI SI SI , ', SI
+'@efrainalban Entonces t estar feliz que el traidor tenga a los Bucaram y Lasso entre sus aliados. Te parece que e  ', NO
+'@FernanCabezasG @VamosLenin Por fomemtar la democracia nuestro voto dice #Cuenca7VecesS, ', SI
+'@FernanCabezasG @VamosLenin Por fomentar la democracia nuestro voto dice #Cuenca7VecesS, ', SI
+'@juankfarez @WWERomanReigns Nooooque hiciste Cena #RoyalRumble, ', NO
+'@ppsesa ndate a la verga .....traidor hp, ', NO
+'@raulclementelh @MarceloHCabrera Apoyo incondicional al lider del  Movimiento Igualdad 82 Ing. Marcelo Cabrera. Por eso #Cuenca7VecesS, ', SI
+'#7VecesSi por un nuevo #Ecuador mi voz y mi voto cuenta.  ', SI
+'#7VecesSi por un nuevo #Ecuador mi voz y mi voto cuenta.  ', SI
+'#7VecesSi por un nuevo #Ecuador mi voz y mi voto cuenta.  ', SI
+'#7VecesSi por un nuevo #Ecuador mi voz y mi voto cuenta.  ', SI
+'#AzuayDiceS al cambio al desarrollo y la prosperidad de su gente. El 4 de febrero Ecuador dice #7VecesS  ', SI
+'#Cuenca7VecesS  para proteger nuestros pramos nuestro Cajas fuentes del agua vital.  ', SI
+'#Cuenca7VecesS para detener de manera definitiva las posibles intervenciones y extractivismo en las reas protegid  ', SI
+'#Cuenca7VecesS los cuencanos ya decidieron la Consulta Popular es una oportunidad para que el pueblo decida e in  ', SI
+'#VotaTodoS en la Pregunta 1 para que las personas condenadas por actos de corrupcin nunca ms puedan administrar  ', SI
+' Agenda oficial de Medios  Viernes 26 de Enero #ObvioQueS @Lenin @JorgeWated  ', SI
+' INFORMACIN OFICIAL  Agenda para el da de hoy en Cuenca #ObvioQueS #7VecesS @Lenin @JorgeWated  ', SI
+' INFORMACIN OFICIAL  Agenda para el da de hoy en Cuenca #ObvioQueS #7VecesS @Lenin @JorgeWated  ', SI
+'Apoyando el cambio #Cuenca7VecesS  ', SI
+'Con alegra con esperanza y con mucha conviccin este 4 de febrero todosas a votar #Si #7VecesSi #Cuenca7VecesS  ', SI
+'Con casa llena #Cuenca y el #Ecuador le dice S a la Consulta Popular. #Cuenca7VecesS  ', SI
+'Con la #ConsultaPopular respaldamos el camino hacia un nuevo #Ecuador #Cuenca7VecesS @UNSIONTV  ', SI
+'Con optimismo para generar el pas que soamos. #Cuenca7VecesS  ', SI
+'Desde la @UnidadPopularUP y desde nuestra @UnidadPopularAz a una sola voz siempre #7VecesSi por nuestro Ecuador  ', SI
+'El camino hacia un nuevo Ecuador. #Cuenca7VecesS  ', SI
+'El cuntico #traidor de @Lenin es y ser ms falso q su #consultamaosa el mismo hecho de hacerte la vctima del en  ', NO
+'El da de ayer fue emotivo el evento de representacin azuaya en favor del SI EN LA  CONSULTA. #Cuenca7VecesS  ', SI
+'Empezamos la maana compartiendo con mis amigos de @complicefmAcompaenme.#Cuenca7VecesS  ', SI
+'Este 4 de febrero vamos todos #S7VecesS por un nuevo pas por un Ecuador solidario y de dilogo.  #DileSAlFuturo  ', SI
+'Este 4 febrero en la consulta #Cuenca7VecesS  para que nuestros criterios sean tomados en Cuenta.  ', SI
+'Expectacular cierre de campaa en #Azuay. Gracias por el respaldo al #GobiernoDeTodos @Lenin#7VecesS  ', SI
+'Gran cita con la democracia. #Cuenca le dice SI A LA CONSULTA. #Cuenca7VecesS  ', SI
+'Hoy con @SAUDEecu seguimos siendo una sola voz por un Rotundo #7VecesS. Gracias a quienes participan de la iniciat  ', SI
+'Hoy todos decimos S a favor de un nuevo pas de la Democracia. Me sumo a un nuevo Ecuador.#Cuenca7VecesS  ', SI
+'Invento del Cuntico traidor le robarn la base de datos los guerrilleros de Colombia, ', NO
+'La consulta no consulta... Vota si o vota no... Pan con caca  para todos, ', NO
+'La consulta popular es el acto ms democrtico y legtimo que puede tener una sociedad.#SieteVecesS  ', SI
+'La Consulta Popular es una oportunidad para decidir el pas en el que queremos vivir.@complicefm #Cuenca7VecesS  ', SI
+'Mujeres apoyando por un cambio positivo para los Ecuatorianos #Cuenca7VecesS  ', SI
+'No no no a la consulta maosa de este Cuntico traidor., ', NO
+'Para evitar daos irreparables con el medio ambiente #Cuenca7VecesS  ', SI
+'Para lograr el desarrollo del Ecuador necesitamos ambientes de paz de dialogo de gobernabilidad por eso #TodoS e  ', SI
+'Por apoyar a que las reas protegidas no sean explotadas indiscriminadamente. Decimos #Cuenca7VecesS  ', SI
+'Por que el pais lo necesita #EcuadorDiceS vamos este 04 de febrero con entusiasmo a ejerces nuestro derecho al vo  ', SI
+'Por un futuro de esperanza de unidad e inclusin @Lenin @PaulGranda #VotaTodoS  ', SI
+'Porque est es una campaa de alegra renovacin y convicciones ciudadanas #VotaTodoS #VotaS  ', SI
+'Que se enriquezca la democracia con el voto#EcuadorDiceS  ', SI
+'Recin hasta ahora logr votar. #ConsultaPopular2018 Ya sabe #7VecesS ., ', SI
+'Una temporada ms junto al @DCuencaOficial #SiempreRojo #VamosCuenca y la mejor transmisin de @fm88radioactiva  ', SI
+'Vota todo SI #SieteVecesSi #AzuaydiceSi vota con el corazn y a la Democracia dile SI @GabiBritoA @GATACORDERO  ', SI
+'Tenemos un traidor impostor como presidente Correa no me sorprende ya conocimos al ladrn de manos limpias y corazn ardiente, ', NO
+'@CarlosVerareal Por que de un tiempo ac quieren decir a todo todito NO #VotaTodoS, ', SI
+'@DanieLocro Jajajaja si si 7 veces si, ', SI
+'@ppsesa ndate a la verga .....traidor hp, ', NO
+'#7VecesSi por un nuevo #Ecuador mi voz y mi voto cuenta.  ', SI
+'#7VecesSi por un nuevo #Ecuador mi voz y mi voto cuenta.  ', SI
+'#7VecesSi por un nuevo #Ecuador mi voz y mi voto cuenta.  ', SI
+'#7VecesSi por un nuevo #Ecuador mi voz y mi voto cuenta.  ', SI
+' INFORMACIN OFICIAL  Agenda para el da de hoy en Cuenca #ObvioQueS #7VecesS @Lenin @JorgeWated  ', SI
+'Con alegra con esperanza y con mucha conviccin este 4 de febrero todosas a votar #Si #7VecesSi #Cuenca7VecesS  ', SI
+'Desde la @UnidadPopularUP y desde nuestra @UnidadPopularAz a una sola voz siempre #7VecesSi por nuestro Ecuador  ', SI
+'La consulta no consulta... Vota si o vota no... Pan con caca  para todos, ', NO
+'La Rev Ciudadana se desintegra entre traidores oportunistas y errores graves de Correa. Se termin el sueo y la r  ', NO
+'Por que el pais lo necesita #EcuadorDiceS vamos este 04 de febrero con entusiasmo a ejerces nuestro derecho al vo  ', SI
+'Recin hasta ahora logr votar. #ConsultaPopular2018 Ya sabe #7VecesS ., ', SI
+

@@ -1,0 +1,7 @@
+@relation consultapopular
+
+@attribute 'tweet' string
+@attribute 'class' {SI, NO}
+@data 
+
+'Todos con Lenin hay que votar si', ?

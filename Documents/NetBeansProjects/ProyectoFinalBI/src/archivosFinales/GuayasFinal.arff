@@ -1,0 +1,462 @@
+@relation consultapopular
+
+@attribute 'tweet' String
+@attribute 'class' {SI, NO}
+@data 
+
+' #EcuadorDiceNO con alegra   ', NO
+'clarito ..No firmamos un cheque en blanco... #7VecesSI  @Lenin  ', SI
+'Contamos contigo Este domingo 4 de febrero #EcuadorDiceS con fe y esperanza por el renacer de una nueva Patria.  ', SI
+'Felices de estar juntos apoyando el S en la #ConsultaPopular  Este domingo #VotaTodoS #7VecesS  ', SI
+'Hoy 7 veces s ctm, ', SI
+'La alegra es de todos en este da #7VecesS #SALUDesSAUDE #VotaTodoS  ', SI
+'Maana acompaemos a nuestra vicepresidenta @marialevicuna Porque todos votaremos #7VecesS #VotaTodoS  ', SI
+'Por un Yasun protegido #VotaTodoS  por la proteccin ambiental de nuestro Ecuador.  #SomosEcuador un pas unido  ', SI
+'Por un Yasun protegido #VotaTodoS por la proteccin ambiental de nuestro Ecuador.  #SomosEcuador un pas unido  ', SI
+'Te espero en el cierre de campaa #GuayasDiceS Comparto mi agenda en la ciudad de Guayaquil acompaando a nuestr  ', SI
+'Todo el Ecuador unido por la Consulta del Pueblo #GuayasDiceS #GuayasconLenin Este 4 de Febrero a votar por un p  ', SI
+'Por qu votar NO en las preguntas 236 de la #ConsultaPopular #PorLaPatriaDilesNO #ConsultaPopularEC #DilesNO  ', NO
+'.@Lenin Sr. Presidente por cuidar el medio ambiente por fomentar la inversin hacia el ecoturismo #PichinchaDiceS  ', SI
+'EN MINUTOS @PaolaPabonC en @RTSEcuador en anlisis sobre consulta popular.#YoVotoNO  ', NO
+'URGENTE Ests son las razones por las que renunci el Procurador del Estado Diego Garca.#DilesNO  ', NO
+'@DejateLlevar @DavidDeMaria @CadenaDial Ah estaremos escuchndolo desde el otro lado del charco #SiPudiera #DavidDeMaria20Aos , ', SI
+'@28marissa @PresidenciaEc @Lenin Yo digo 7 veces si., ', SI
+'@amarillox100pr Noooooo auxiliooo quieroo probarlooo, ', NO
+'@AngeldebritoOk Noooooo psimo sera que la escojan una vulgar sin trayectoria internacional les recuerdo seores  ', NO
+'@CadenaDial #EscuchoDialTalCual Muchas Felicitaciones  @DavidDeMaria Hermoso tema  #SiPudiera  contando los Da p  ', SI
+'@CarlaDelgadoR 7 veces no a los traidores le dir la ciudadana en las urnas al cuntico y su gallada, ', NO
+'@carlosrojas17 @PresidenciaEc @Lenin Yo digo 7 veces si, ', SI
+'@cendemocratico @raulclementelh @MonseBustamant Sigan adelante todos decimos si y 7 veces si Jairala  ', SI
+'@CorporacionGES#Vota7vecesS  #ReferendumConsultaPopular2018febrero04 #TerceraVaECUADOR Sociedad tica Responsa  ', SI
+'@CorporacionGES#Vota7vecesS  #ReferendumConsultaPopular2018febrero04 #TerceraVaECUADOR Sociedad tica Responsa  ', SI
+'@CorporacionGES#Vota7vecesS  #ReferendumConsultaPopular2018febrero04 #TerceraVaECUADOR Sociedad tica Responsa  ', SI
+'@CorporacionGES#Vota7vecesS  #ReferendumConsultaPopular2018febrero04 #TerceraVaECUADOR Sociedad tica Responsa  ', SI
+'@CorporacionGES#Vota7vecesS  #ReferendumConsultaPopular2018febrero04 #TerceraVaECUADOR Sociedad tica Responsa  ', SI
+'@CorporacionGES#Vota7vecesS  #ReferendumConsultaPopular2018febrero04 #TerceraVaECUADOR Sociedad tica Responsab  ', SI
+'@DavidDeMaria   Que bien suena #SiPudiera en @megaestacionfm  con @Evelyn929fm  ', SI
+'@DDMEcuador @CadenaDial @DavidDeMaria @RafaCanoOficial #SiPudiera es bellsima    ', SI
+'@eluniversocom No los deja dormir en paz su eterno presidente... Nooooooooooooo, ', NO
+'@FranckoBarce Conociendo tus comentarios. ..#7VecesNO, ', NO
+'@GabrielaEsPais #7VecesSi  Si y solo Si   Adios corruptos, ', SI
+'@IdrovoWil @BusetaEC @UrbViaLaCosta @jaimenebotsaadi Nooooo por favor. Esos monstruos daan esttica y plusvalia., ', NO
+'@Jelizmon Noooo... A mi noooo, ', NO
+'@jimmyjairala @cendemocratico @PrefecturGuayas Lo maravilloso de la diversidad #7VecesS, ', SI
+'@JoyaStereo @AlespiAndrade les invitamos a escuchar #SiPudiera el nuevo single indito de @DavidDeMaria    ', SI
+'@JoyaStereo @karina les invitamos a escuchar #SiPudiera el nuevo single indito de @DavidDeMaria    ', SI
+'@JoyaStereo @marquitovallejo Me gustaria almorzar escuchando #SiPudiera nuevo single de @DavidDeMaria    ', SI
+'@jpjaramillo25 @chuzalongaec @Lenin @MashiRafael Todo #Si Cuando le dan poder a la #gordadelatico todo esta bien pe  ', SI
+'@kattyleonflore1 @Lenin @LuisQuishpiV @kattyleonflores @Kelc74779121 A traidores se le dice NOOOOO, ', NO
+'@LaKolmenaEC Todo NOOOOO a esta consulta maosa ah mi voto kolmena  ', NO
+'@laviviec @BarcelonaSCweb Nada te calzNONADA , ', NO
+'@Lenin @ElCiudadanoec tanto es tu envidia y odio q permites e inculcas estos vandalismos traidor y cobarde mentiroso, ', NO
+'@Lenin #PichinchaDiceS por que creemos en su palabra Presidente por el futuro de nuestros hijos y este domingo le diremos #7VecesS., ', SI
+'@Lenin 7 veces si amigos   ', SI
+'@Lenin Cuntico traidor hipcrita que no te acuerdas tus palabras donde decas que @MashiRafael no se esconda en la  ', NO
+'@Lenin Es la primera vez que se pregunta al pueblo ecuatoriano temas ambientales. S a los derechos de la Naturaleza.#VotaTodoS, ', SI
+'@lolacienfuegos @Lenin Todo #Si, ', SI
+'@marialevicuna Este domingo #EcuadorDiceS #VotaTodoS, ', SI
+'@MashiRafael @TapiaFray A la consulta 7 veces si a los corruptos diles NO., ', SI
+'@MashiRafael Q ignorancia d este seor q el papel d presidente le queda muy grande traidor vende patria 7 veces nooooo, ', NO
+'@MashiRafael Que claro es el panorama poltico : La derecha tiene el poder poltico a travs  de un traidor. La pre  ', NO
+'@MashiRafael Tenemos toda la clase poltica en contra incluidos traidores medios difamadores empresarios vendepa  ', NO
+'@MashiRafael Ya vencimos Maana hasta por las orejas te vamos a decir 7 veces si, ', SI
+'@MashiRoberto @CancilleriaEc Igual va a ganar el #Si, ', SI
+'@MashiRoberto Todo #Si jaja, ', SI
+'@MauriParedes973 ya escuchaste #SiPudiera el nuevo xito de @DavidDeMaria escchalo aqu   ', SI
+'@megaestacionfm el da 2 de febrero @DavidDeMaria nos presenta su nuevo single #SiPudiera de su prximo disco con e  ', SI
+'@mfespinosaEC @35PAIS 7 veces NO por traidores y oportunistas se les cae la consulta por eso el exhorto., ', NO
+'@mjmolina96 Nooo ni de bromas, ', NO
+'@nmodelmagazine el da 2 de febrero @DavidDeMaria nos presenta su nuevo singl #SiPudiera de su prximo disco con e  ', SI
+'@pameaguirre1 Te hablan traidor ..      @Lenin , ', NO
+'@panchocevallosv A los traidores y oportunistas NO, ', NO
+'@PaolaCabezasC Nravo Quinind no acepten corruptos #7VecesSi, ', SI
+'@PaolaPabonC Igual gana el #Si #Paredesufrir, ', SI
+'@PaolaPabonC Y Osea pq gana en un pas gana la consulta Eres bien pava. Va a a ganar el #Si No sufras tanto., ', SI
+'@RADIOGITANA  les invitamos a escuchar #SiPudiera el nuevo single indito de @DavidDeMaria    ', SI
+'@RADIOGITANA el da 2 de febrero @DavidDeMaria nos presenta su nuevo single #SiPudiera de su prximo disco con el q  ', SI
+'@RadioPlayInter el da 2 de febrero @DavidDeMaria nos presenta su nuevo single #SiPudiera de su prximo disco con e  ', SI
+'@revolucionari68 @abdalabucaram @Lenin Estoy de acuerdo son unos ladrones traidores., ', NO
+'@RynaZR @MashiRafael Sali una de las troll pagadas por el traidor, ', NO
+'@SalvadorMIsabel Bien. Sera una decepcin verla unida a los traidores., ', NO
+'@santiguarderas Hoy no creo. Esas maas eran de la gorda del tico. Hoy el #Si lo sepulta al dictador rosa., ', SI
+'@smejia473 Nooo el solo hecho de acercarme a conversarte con el pretexto de que de algo quiero hablarte, ', NO
+'@SurOscura95 Nooo lo que pas es que la chica repiti la estrofa final. Por eso se alargo el himno, ', NO
+'@VamosLenin @irinacabezas Resentida traidoraaaaa, ', NO
+'@verasarauz @cnegobec @Lenin Todos votaremos por t #TodoSi #ConsultaPopular2018, ', SI
+'@vivianabonilla @MashiRafael Alguien le cree despus de apoyar en todo al traidor cuntico . No se rasgue la vestiduras ahora, ', NO
+'@YoApoyoALeninM No a los traidores, ', NO
+'#7VecesSi  Ecuador entero   #ManabDiceS, ', SI
+'#7VecesS en la consulta popular Junto a nuestro lder @jimmyjairala y @cendemocratico recorriendo las calles d  ', SI
+'#7VecesSI Guayaquil no se agueba crajo, ', SI
+'#7VecesSi para depurar ......mandar a prisin a los polticos que se enriquecieron con dinero del pueblo, ', SI
+'#7VecesSi para el Lunes 5 empezar otro Ecuador, ', SI
+'#7VecesSi para respetar nuestra naturaleza por el futuro de nuestros hijos, ', SI
+'#Cayambe le dice #7VecesS a esta #ConsultaPopular que cambiar a este pas que busca un mejor futuro.  ', SI
+'#CierreDeCampaa#7VecesS #VamosEcuadorPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa#7VecesS #VamosEcuadorPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa#7VecesS #VamosEcuadorPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa#7VecesS #VamosEcuadorPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa#7VecesS #VamosEcuadorPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa#7VecesS #VamosEcuadorPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa#7VecesS #VamosEcuadorPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa#7VecesS #VamosEcuadorPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa#7VecesS #VamosEcuadorPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa #7VecesS #EcuadorUnidoPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa #7VecesS #Unidos en Guayaquil Ecuador  ', SI
+'#ConsultaPopular2018#Si por el cambio, ', SI
+'#ConsultaPopular2018Por la patriaPor nuestro futuroPor las becasPor el pas que nos cost construir#YoVotoNO  ', NO
+'#DejateLlevar @CadenaDial  @DavidDeMaria es #SiPudiera es Hermosaaaaaaaamuchas gracias @RafaCanoOficial Rafico  ', SI
+'#DilesNOPor la #Pueblos a enterrarlos en las urnas#PorLaPatriaDilesNOPor nuestros #hij@s#NiPerdon  #NiOlvido  ', NO
+'#DilesNOPor la #Pueblos a enterrarlos en las urnas#PorLaPatriaDilesNOPor nuestros #hij@s#NiPerdon  #NiOlvido  ', NO
+'#DilesNOCentral de Gomez Rendon Y Esmeraldas.Por una Patria Altiva y SoberanaDilesNoNoVenceran los Pueb  ', NO
+'#DilesNOCentral de Gomez Rendon Y Esmeraldas.Por una Patria Altiva y SoberanaDilesNoNoVenceran los Pueb  ', NO
+'#DilesNODISTRITO 3 PARROQUIA LETAMENDIEL 4 DE FEBRERO LOS PUEBLOS DIRAN EL #NO ROTUNDO EN LAS URNAS  A LA CONS  ', NO
+'#DilesNODistrito 3 #ParroquiaLetamendiEL 4 DE FEBRERO LOS PUEBLOS DIRAN EL #NO ROTUNDO A LA CONSULTA CORRUPTA D  ', NO
+'#DilesNOEL 4 DE FEBRERO LOS PUEBLOS DIRAN EL #NO ROTUNDO A LA CONSULTA CORRUPTA DE LAS OLIGARQUIAS   ', NO
+'#DilesNOA DERROCAR A LAS OLIGARQUIAS Y AL CUANTICO TRAIDOR ......ASI SE UNAN NO VENCERAN A LOS PUEBLOS LUCHARE  ', NO
+'#DilesNOSe desvanece la CONSULTA CORRUPTA MAOSA E INCONSTITUCIONALVENCERAN LOS MANDANTES LOS DUEOS DE LA  ', NO
+'#Ecuador ya est disponible #SiPudiera el nuevo single de @DavidDeMaria  escuchadlo   ', SI
+'#EcuadorDiceS a la Ley de Plusvala. Votemos S al empleo S a la construccin.#VotaTodoS #TodoS  ', SI
+'#EcuadorDiceS erecto y altivo..todo s, ', SI
+'#EcuadorDiceS para que los pedofilos paguen cadena perpetua, ', SI
+'#EcuadorDiceS por un mejor futuro para cada familia ecuatoriana.  ', SI
+'#EcuadorDiceS todo todito raya Si, ', SI
+'#EcuadorDiceS y 7 veces #EcuadorDiceS, ', SI
+'#ElEmpalmeDice siii 7 veces sii..., ', SI
+'#Guayaquil cancin a la   #Madre En #CEDEREA #Si se puede cambiar de vida  ', SI
+'#GuayasDiceS  En la consulta popular se expresa la voluntad de los ecuatorianos  #CierreCampaa @marialevicuna  ', SI
+'#GuayasDiceS  En la consulta popular se expresa la voluntad de los ecuatorianos  #ConsultaPopular @marialevicuna  ', SI
+'#GuayasDiceS Guayaquil .....Ecuador entero, ', SI
+'#LGBT hace un llamado para votar No en preguntas 2 3 6 de la #ConsultaPopular o #7VecesNo #PorLaPatriaDilesNO  ', NO
+'#MAANA  No te puedes perder  el nuevo single de @DavidDeMaria #SiPudiera estreno exclusivo en @DejateLlevar  ', SI
+'#PichinchaDiceS y todos decimos #7vecesSi, ', SI
+'#PorLaPatriaDilesNONO A LOS VENDE PATRIA  ', NO
+'#PorLaPatriaDilesNOOOEL #NO  GANA Y SUPERA LAS ENCUESTAS LO QUE NO RECONOCE LOS MEDIOS MERCANTILISTASEn la Consu  ', NO
+'#PorLaPatriaDilesNOOOEL  #NO  GANA Y SUPERA LAS ENCUESTAS LO QUE NO RECONOCE LOS MEDIOS MERCANTILISTASEn la C  ', NO
+'#PorLaPatriaDilesNOOOEL  #NO  GANA Y SUPERA LAS ENCUESTAS LO QUE NO RECONOCE LOS MEDIOS MERCANTILISTASEn la  ', NO
+'#PorLaPatriaDilesNOOOEL  #NO  GANA Y SUPERA LAS ENCUESTAS LO QUE NO RECONOCE LOS MWDIOS MERCANTILISTASEn la  ', NO
+'#PorLaPatriaDilesNOOOEL  #NO  GANA Y SUPERA LAS ENCUESTAS LO QUE NO RECONOCE LOS MWDIOS MERCANTILISTASEn la  ', NO
+'#SieteVecesS por la libertad y una patria mejor.#Ecuador #ConsultaPopular2018 #ConsultaPopularEC  ', SI
+'#SiPudiera #DejateLlevar @CadenaDial vuelve a colocar #SiPudiera quiero escucharla   @DavidDeMaria  ', SI
+'#SiPudiera #DejateLlevar @CadenaDial vuelve a colocar #SiPudiera quiero escucharla   @DavidDeMaria  ', SI
+'#SiSeVeHomoMeLoTomo ya tiene embajador argentogalapaguense   ', SI
+'#TerceraVaECUADORColegio Provincia de ChimborazoColegio Rosario Snchez BrunoGuayaquil Zona 8Presentes  ', SI
+'#TerceraVaECUADOR Ejercicio del Voto de la Ciudadania INDEPENDIENTE en #ReferendumConsultaPopular2018febrero04  ', SI
+'#TerceraVaECUADOR Reunin  Decisiones ....  ', SI
+'#TerceraVaECUADOR Seguimiento proceso electoral #ReferendumConsultaPopular2018febrero04  ', SI
+'#TodoS para cuidar nuestro patrimonio cultural del Ecuador #SoySAUDE #ECUADOResSAUDE #SoyDeMachala  ', SI
+'#VotaTodoSPara los interesados y con alma de serviles enviar su CV. @ecuavisa @eltelegrafo @TelediarioEC  ', SI
+'#VotaTodoS  es el grito de Ecuador, ', SI
+'#VotaTodoS  por un Ecuador con libertad y sin odios @babadmerchan @janethinostroza @ivonnelago @Martinminguchi  ', SI
+'#VotaTodoS por un pais nuevo....no por lenin, ', SI
+'#VotaTodoS ya tu sabes, ', SI
+'#YoVotoNO por la Patria y con infinito amor...  ', NO
+'#YoVotoNO porque el @cnegobec debe estar vigilante de este tipo de acciones en los territorios  ', NO
+'#YoVotoNO Porque no practicamos ni promocionamos la violencia poltica  ', NO
+'  #YoVotoNO gracias mi eterno Presi @MashiRafael  ', NO
+'7 Veces SI  #PorMiPais #PorLasFamiliasEcuatorianas #PorMiFamilia #7VecesSi #YoCREOEnLaConsulta  ', SI
+'7 veces si vamos pas a terminar con la dcada de divisin y odio., ', SI
+'7 veces siiiiiiii ...  ', SI
+'A cumplir con el deber antes que salga el sol #SI #7VecesS, ', SI
+'A la 3 la del reparto dile NO #7vecesNO. #ConsultaPopular #ConsultaMentirosa  ', NO
+'A la de regresin de Derechos a la 2  #DilesNO #7VecesNO a la #ConsultaPopularEC @EcuadorRC @MashiRafael  ', NO
+'A los traidores se le dise NOOOOO  ', NO
+'A votar #7VecesS en Liceo Aeronautico FAE # 2  ', SI
+'A votar Ya con nueva votante en casa AABC 7 veces si, ', SI
+'Ah est tu aerosol @ricardopatinoec  #7VecesSI  ', SI
+'Ahora S #SieteVecesSI  #ConsultaEc, ', SI
+'Aqu estn las manos del calladito y modosito de MoreNO.  ', NO
+'Aqu estn los Sicarios los tira piedras los perros de los facticos.. #NOaLaViolenciaMoreNO  ', NO
+'Asi desprecia Quinind a los prepotentes y corruptos @MashiRafael ........todo Ecuador votar Si #7VecesSi  ', SI
+'Asi votar yo 1 SI 2 SI 3 SI 4 SI 5 SI 6 SI 7 SI #Si7VecesSi, ', SI
+'Atenti Guayasgt Compartimos agenda de nuestro compaero @MashiRafael #GuayasDiceNO A las preguntas 23 y 6 dile NO  ', NO
+'Bien doa Irina #EcuadorDiceS   ', SI
+'Brotheeeeer como pueden hablar con traidores, ', NO
+'Buena campaa por el S del traidor @Lenin pero como es de suponer ellos dirn que no tienen nada que ver en esto.  ', NO
+'Buena pregunta la nica manera de saberlo es #VotarSI caso contrario ya conocemos la realidad actual...entonces  ', SI
+'Caravana de cierre de campaa #NO a las preguntas 2 3 y 6 de la #ConsultaMaosa #EcuadorDiceNO  Esa ser la consig  ', NO
+'Certificado emplasticado.a solo 025 #ConsultaPopular #7VecesS, ', SI
+'Con decisin y firmeza me dirijo a votar #YoVotoNO. #PorLaPatriaDilesNO. #7vecesNO, ', NO
+'Con nuestro director nacional @raulclementelh @alexcevallos2 y @perezmaaugusta en el cierre de #Guayas #7VecesSi  ', SI
+'Con profundo amor por la Patria en las urnas y en las redes el pueblo dice #YoVotoNO a la consulta maosa de la d  ', NO
+'Con tu voto este domingo gana el Ecuador  #VotaTodoS #7VecesSi #GuayasVotaS @GAFT75 @PaulGranda @Lenin  ', SI
+'Contigo 7 veces si., ', SI
+'Cualquiera vota no en todo excepto en las preguntas de los abusadores sexuales contra menores y para q los corrupt  ', NO
+'Cumpliendo con la democracia #Ecuador #7VecesSI #Nios #Naturaleza #Corrupcin #Construccin  ', SI
+'Cumpliendo con la democracia #Ecuador #7VecesSI #Nios #Naturaleza #Corrupcin #Construccin  ', SI
+'De Babyshower en el Sur #FelizFinDeSemana #FelizSbado Y tambin #DilesNO   ', NO
+'Depende de nosotros. #7vecesSi                         #7VecesNO  ', NO
+'Despus de votar #7VecesSi vamos por tacos californianos., ', SI
+'Dile 7 veces siiiii.  ', SI
+'Dile NOOOO al traidor  ', NO
+'Ecuador dice SI #VotaTodoS, ', SI
+'El da caluroso con un sol radiante sal a sufragar camin dos kilmetros pero bueno mi voto fue.. #YoVotoNO  ', NO
+'El Guasmo a full con el #NO. #DurnPresente #EcuadorDiceNO #DilesNo #NOaLaViolenciaMoreNO  ', NO
+'El traidor 7vecesNo  @EcuadorRC  @MashiRafael @GabrielaEsPais  ', NO
+'El vago traidor recin se acuerda de salir a la calles. Impresentable este tipo  ', NO
+'En pocos minutos al aire entrevista en vivo en @Tropicanaec 96.5FM para hablar de la #ConsultaPopular A las preguntas 2. 3 y 6 #DilesNO, ', NO
+'Es de convencimiento #TodoS  ', SI
+'Esta es nuestra oportunidad de ser partcipes activos en la transformacin de nuestro pas. @Lenin #VotaTodoS  ', SI
+'Esta maana en @ecuavisa hablando sobre las objeciones a la #ConsultaPopular c @ESTEFANIESPIN #DilesNO  ', NO
+'Estn desesperados no saben como detener al gigante @MashiRafael. Este 4 de febrero todos a votar #7VecesNO a la  ', NO
+'Este domingo 4 de febrero mi voto responsable por mis hijos por la naturaleza por mi PATRIA #VotaTodoS  ', SI
+'Esto no es pagado es pueblo organizado. #DurnDiceNO #EcuadorDiceNO #DurnDiceNo#GuayasDiceNo  ', NO
+'Felicitaciones @Lenin MoreNO por ser el tercer poltico en el mundo con ms cuentas falsas segn este estudio publ  ', NO
+'Gran alegra esta noche en el cierre de campaa en Guayaquil #GuayasDiceNO #EcuadorDiceNO al  ', NO
+'Gran cierre de campaa por el #7VecesNO.. As dejamos confirmado que el NO les da palo y de largo a la consulta ma  ', NO
+'Gran director y ser humano #GuayasDiceS   ', SI
+'Guayas muestra su apoyo y cario TOTAL al Presidente de todos este 4 de febrero #GuayasDiceS #VotaTodoS @Lenin  ', SI
+'He votado #7VecesS... como lo dije desde el principioQue se sepa., ', SI
+'Hoy almuerzo popular en Pascuales junto a @marialevicuna   masivo respaldo ciudadano @Lenin #GuayasDiceS  ', SI
+'Hoy iniciamos #TerceraVaECUADOR  como Ciudadania y sus OSC Organizaciones Sociedad Civil INDEPENDIENTES desde el R  ', SI
+'Hoy se inicia #TerceraVaECUADOR #Vota7vecesS #ReferendumConsultaPopular2018febrero04 en  ', SI
+'Hoy todos contra el traidor, ', NO
+'Idnticados todos los asesinos... Y. La polica nada... #NOaLaViolenciaMoreNO @teleSURtv  ', NO
+'Jajajaja #consultapopular2018 despus de votar por el #Si yo tan en Guayas  ', SI
+'Junto a un gran amigo y compaero de lucha  @CesarRohon  durante el cierre de campaa en la 29 y la Q#VotaS en  ', SI
+'La compaera Vernica Espinosa lleg para demostrar su apoyo por el S #7VecesS #VotaTodoS #SAUDEVotaS  ', SI
+'La consigna de hoy #YoVotoNO   ', NO
+'Las imgenes hablan por S solas #7VecesS  ', SI
+'LGBTI convocan a votar 236 No en #ConsultaPopular #7VecesNO cc @MashiRafael @EcuadorRC @BancadaRC @SomosMasEc  ', NO
+'Llueve sin parar y no el da de la ley seca... Aunque el pas se detenga x algunos traidores seguiremos adelante..  ', NO
+'Lo que deca el Prefecto del Guayas sobre la reeleccin indefinida. #DilesNO #GuayasDiceNO  ', NO
+'Los compatriotas migrantes ecuatorianos en Madrid apoyan con alegra el NO. Dirn #7VecesNO a #LaConsultaMaosa. L  ', NO
+'Los delegados del #Si ojo en est provincia ....Aqu estn los patos del fraude electoral... #Manab @VamosLenin  ', SI
+'Los observadores de la @OEAoficial han escuchado cada argumento de lo insconstitucional de la consulta #YoVotoNO  ', NO
+'Maana tenemos la oportunidad de regalarnos un nuevo Ecuador  #ATuFuturoDileS #7VecesSi @GAFT75 @PaulGranda  ', SI
+'Mi hermana es de las despistadas que va a votar sin cdula  #VotacionesEcuador #EcuadorDiceSi #RecorderisParaClaudia, ', SI
+'Mi voto #7VecesS por el Cambio por el Empleo por nuestros Hijos por el pas que aspira la gran mayora de los e  ', SI
+'Mira resumen de actividades de este viernes 26Enero2018 sobre la #ConsultaPopular   #DilesNO, ', NO
+'Montn de pendejos cunticos.  Todo No  ', NO
+'No a los traidores  ', NO
+'No puedo ms  #SilvanaSinLana, ', SI
+'No volvamos al pasado 7 veces #DilesNO  en Guayaquil Ecuador  ', NO
+'Nuestro total apoyo @jimmyjairala #7VecesS en la consulta popular   ', SI
+'Nunca pese que serias un traidor NO ALA CONSULTA TODO NOOOO  ', NO
+'Orgulloso de ser parte de la historia poltica del Ecuador #7VecesSi Gran Cierre de campaa Guayaquil dice Si  ', SI
+'Para contribuir con Salud Unin y Desarrollo SAUDE dice  hoy 7 veces S #VotaTodoS el prximo domingo  ', SI
+'Para incentivar y reactivar el sector de la construccin que genera miles de empleos vamos a decir #7VecesS  ', SI
+'Para permitirnos hacer realidad el sueo de todos los ecuatorianos de tener el pais que queremos #7VecesS  ', SI
+'Para que los pedfilos sean condenados y no se escuden en puestos pblicos #7VecesSi, ', SI
+'Para sacar a las ratas del pas #7VecesSi, ', SI
+'Por corrupcion como esta yo #7VecesSi  ', SI
+'Por estos hechos impresentables e inolvidables tambin vot 7 veces s.  ', SI
+'Por inconstitucional ilegal e ilegtima a la #ConsultaPopular2018 #YoVotoNO Misin cumplida @MashiRafael  ', NO
+'Porque Juntos haremos realidad el sueo del Ecuador  que todos queremos #VotaTodoSi #7VecesSi @GAFT75 @PaulGranda  ', SI
+'Porque quiero al Ecuador  y quiero que mis hijos estn orgullosos del pas donde nacieron #VotaTodoSi  ', SI
+'Porque quiero un Ecuador libre de corruptos #7VecesSi, ', SI
+'Que Berguenza con B de Burros.. #7VecesNO a los Neoliberales..    @teleSURtv  ', NO
+'Recorrido por nuestra Provincia Orgullosamente Montuvios llegando con el Mensaje de la  Consulta Popular #7VecesSi  ', SI
+'Red de Profesionales Por La Salud @Redprosalud#SaludEnMovimiento @CSMovimiento @CuTLosRios#SieteVecesS  ', SI
+'ROL Mujeres Juventud iniciamos una #TerceraVa como Comunidades Resilientes .#Vota7VecesS  ', SI
+'Se inicia #TerceraVaECUADOR#Vota7vecesS. #ReferendumConsultaPopular2018febrero04  ', SI
+'Se vivi una fiesta #GuayasDiceS y #7VecesS @Lenin  ', SI
+'Si en Ecuador se lanzan huevos es por que nos sobran huevos #7VecesS #vamosporels, ', SI
+'SIETE VECES NO AL TRAIDOR DALE CORREA #DilesNO en Guayaquil Ecuador  ', NO
+'suburbio de Guayaquil tambien arroja huevos #7VecesSi, ', SI
+'Todas las preguntas de la #ConsultaPopular2018 tienen ms del 70 de votos a favor del S. Es literalmente una paliza #7VecesSi, ', SI
+'Todos a compartir y alertar a todo el pas. #YoVotoNO en Guayaquil Ecuador  ', NO
+'Todos a compartir y alertar a todo el pas. #YoVotoNO en Guayaquil Ecuador  ', NO
+'Todos a compartir y alertar a todo el pas. #YoVotoNO en Guayaquil Ecuador  ', NO
+'Todos a votar masivamente pir el Si #EcuadorDiceS rt  ', SI
+'Todos toditititos Si #VotaTodoS, ', SI
+'Tofo todito Si #VotaTodoS, ', SI
+'Un #NO rotundo lleno de indignacin a la #ConsultaMaosa#YoVotoNO#7VecesNOEl 4 de febrero se le terminar el sh  ', NO
+'Un rotundo #7VecesS eligir este 4 de febrero el pueblo Guayaquileo. Por una patria libre de corrupcin y por nue  ', SI
+'Un traidor es un canalla pero quin se traiciona a s mismo sus ideales y sus valores es un miserable. #AMINOmeHanEncuestado, ', NO
+'nete pueblo nete a luchar contra este gobierno ANTIPOPULAR... Entreguista y pitiyankee.. #7VecesNO  ', NO
+'Ya deja de llorar borrego maricon 7 veces si CDTM  ', SI
+'Ya lo saben... #Si7VecesSi , ', SI
+'ya voye #VotaTodoS y lo hice para NO MAS TEELECCION....LE QUEDO CLARO   @pameaguirre1, ', SI
+'Yo rayar todo NO #PorLaPatriaDilesNO  ', NO
+'Yo tambin quiero #VotoEnCasa , ', SI
+' #EcuadorDiceNO con alegra   ', NO
+'Contamos contigo Este domingo 4 de febrero #EcuadorDiceS con fe y esperanza por el renacer de una nueva Patria.  ', SI
+'Hoy 7 veces s ctm, ', SI
+'La alegra es de todos en este da #7VecesS #SALUDesSAUDE #VotaTodoS  ', SI
+'Maana acompaemos a nuestra vicepresidenta @marialevicuna Porque todos votaremos #7VecesS #VotaTodoS  ', SI
+'Por un Yasun protegido #VotaTodoS  por la proteccin ambiental de nuestro Ecuador.  #SomosEcuador un pas unido  ', SI
+'Por un Yasun protegido #VotaTodoS por la proteccin ambiental de nuestro Ecuador.  #SomosEcuador un pas unido  ', SI
+'Te espero en el cierre de campaa #GuayasDiceS Comparto mi agenda en la ciudad de Guayaquil acompaando a nuestr  ', SI
+'Todo el Ecuador unido por la Consulta del Pueblo #GuayasDiceS #GuayasconLenin Este 4 de Febrero a votar por un p  ', SI
+'.@Lenin Sr. Presidente por cuidar el medio ambiente por fomentar la inversin hacia el ecoturismo #PichinchaDiceS  ', SI
+'EN MINUTOS @PaolaPabonC en @RTSEcuador en anlisis sobre consulta popular.#YoVotoNO  ', NO
+'URGENTE Ests son las razones por las que renunci el Procurador del Estado Diego Garca.#DilesNO  ', NO
+'@amarillox100pr Noooooo auxiliooo quieroo probarlooo, ', NO
+'@AngeldebritoOk Noooooo psimo sera que la escojan una vulgar sin trayectoria internacional les recuerdo seores  ', NO
+'@CadenaDial #EscuchoDialTalCual Muchas Felicitaciones  @DavidDeMaria Hermoso tema  #SiPudiera  contando los Da p  ', SI
+'@CarlaDelgadoR 7 veces no a los traidores le dir la ciudadana en las urnas al cuntico y su gallada, ', NO
+'@cendemocratico @raulclementelh @MonseBustamant Sigan adelante todos decimos si y 7 veces si Jairala  ', SI
+'@CorporacionGES#Vota7vecesS  #ReferendumConsultaPopular2018febrero04 #TerceraVaECUADOR Sociedad tica Responsa  ', SI
+'@CorporacionGES#Vota7vecesS  #ReferendumConsultaPopular2018febrero04 #TerceraVaECUADOR Sociedad tica Responsa  ', SI
+'@CorporacionGES#Vota7vecesS  #ReferendumConsultaPopular2018febrero04 #TerceraVaECUADOR Sociedad tica Responsa  ', SI
+'@CorporacionGES#Vota7vecesS  #ReferendumConsultaPopular2018febrero04 #TerceraVaECUADOR Sociedad tica Responsa  ', SI
+'@CorporacionGES#Vota7vecesS  #ReferendumConsultaPopular2018febrero04 #TerceraVaECUADOR Sociedad tica Responsa  ', SI
+'@CorporacionGES#Vota7vecesS  #ReferendumConsultaPopular2018febrero04 #TerceraVaECUADOR Sociedad tica Responsab  ', SI
+'@DavidDeMaria   Que bien suena #SiPudiera en @megaestacionfm  con @Evelyn929fm  ', SI
+'@GabrielaEsPais #7VecesSi  Si y solo Si   Adios corruptos, ', SI
+'@Jelizmon Noooo... A mi noooo, ', NO
+'@jimmyjairala @cendemocratico @PrefecturGuayas Lo maravilloso de la diversidad #7VecesS, ', SI
+'@JoyaStereo @AlespiAndrade les invitamos a escuchar #SiPudiera el nuevo single indito de @DavidDeMaria    ', SI
+'@JoyaStereo @karina les invitamos a escuchar #SiPudiera el nuevo single indito de @DavidDeMaria    ', SI
+'@JoyaStereo @marquitovallejo Me gustaria almorzar escuchando #SiPudiera nuevo single de @DavidDeMaria    ', SI
+'@jpjaramillo25 @chuzalongaec @Lenin @MashiRafael Todo #Si Cuando le dan poder a la #gordadelatico todo esta bien pe  ', SI
+'@LaKolmenaEC Todo NOOOOO a esta consulta maosa ah mi voto kolmena  ', NO
+'@LaPostaEcu Noooooooooooo todos son polticos  que sea gente transparente y que no hayan estado contaminados de u  ', NO
+'@laviviec @BarcelonaSCweb Nada te calzNONADA , ', NO
+'@Lenin #PichinchaDiceS por que creemos en su palabra Presidente por el futuro de nuestros hijos y este domingo le diremos #7VecesS., ', SI
+'@Lenin 7 veces si amigos   ', SI
+'@Lenin Que tristeza  siento en este momento ser Ecuatoriana porque le dieron el triunfo a un traidor, ', NO
+'@lolacienfuegos @Lenin Todo #Si, ', SI
+'@marialevicuna Este domingo #EcuadorDiceS #VotaTodoS, ', SI
+'@MashiRafael @TapiaFray A la consulta 7 veces si a los corruptos diles NO., ', SI
+'@MashiRafael Que claro es el panorama poltico : La derecha tiene el poder poltico a travs  de un traidor. La pre  ', NO
+'@MashiRafael Tenemos toda la clase poltica en contra incluidos traidores medios difamadores empresarios vendepa  ', NO
+'@MashiRafael Ya vencimos Maana hasta por las orejas te vamos a decir 7 veces si, ', SI
+'@MashiRoberto Todo #Si jaja, ', SI
+'@MauriParedes973 ya escuchaste #SiPudiera el nuevo xito de @DavidDeMaria escchalo aqu   ', SI
+'@mjmolina96 Nooo ni de bromas, ', NO
+'@pameaguirre1 Te hablan traidor ..      @Lenin , ', NO
+'@PaolaCabezasC Nravo Quinind no acepten corruptos #7VecesSi, ', SI
+'@PaolaPabonC Igual gana el #Si #Paredesufrir, ', SI
+'@PaolaPabonC Y Osea pq gana en un pas gana la consulta Eres bien pava. Va a a ganar el #Si No sufras tanto., ', SI
+'@RADIOGITANA  les invitamos a escuchar #SiPudiera el nuevo single indito de @DavidDeMaria    ', SI
+'@raulclementelh As es Sr Ministro ... Hoy el pas dijo Si ..  es el inicio de un futuro mejor ..  #SiRotundo .., ', SI
+'@revolucionari68 @abdalabucaram @Lenin Estoy de acuerdo son unos ladrones traidores., ', NO
+'@SalvadorMIsabel Bien. Sera una decepcin verla unida a los traidores., ', NO
+'@santiguarderas Hoy no creo. Esas maas eran de la gorda del tico. Hoy el #Si lo sepulta al dictador rosa., ', SI
+'@SurOscura95 Nooo lo que pas es que la chica repiti la estrofa final. Por eso se alargo el himno, ', NO
+'@verasarauz @cnegobec @Lenin Todos votaremos por t #TodoSi #ConsultaPopular2018, ', SI
+'#Cayambe le dice #7VecesS a esta #ConsultaPopular que cambiar a este pas que busca un mejor futuro.  ', SI
+'#CierreDeCampaa#7VecesS #VamosEcuadorPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa#7VecesS #VamosEcuadorPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa#7VecesS #VamosEcuadorPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa#7VecesS #VamosEcuadorPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa#7VecesS #VamosEcuadorPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa#7VecesS #VamosEcuadorPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa#7VecesS #VamosEcuadorPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa#7VecesS #VamosEcuadorPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa#7VecesS #VamosEcuadorPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa #7VecesS #EcuadorUnidoPorElCambio en Guayaquil  ', SI
+'#CierreDeCampaa #7VecesS #Unidos en Guayaquil Ecuador  ', SI
+'#ConsultaPopular2018#Si por el cambio, ', SI
+'#ConsultaPopular2018Por la patriaPor nuestro futuroPor las becasPor el pas que nos cost construir#YoVotoNO  ', NO
+'#DilesNODISTRITO 3 PARROQUIA LETAMENDIEL 4 DE FEBRERO LOS PUEBLOS DIRAN EL #NO ROTUNDO EN LAS URNAS  A LA CONS  ', NO
+'#DilesNODistrito 3 #ParroquiaLetamendiEL 4 DE FEBRERO LOS PUEBLOS DIRAN EL #NO ROTUNDO A LA CONSULTA CORRUPTA D  ', NO
+'#DilesNOEL 4 DE FEBRERO LOS PUEBLOS DIRAN EL #NO ROTUNDO A LA CONSULTA CORRUPTA DE LAS OLIGARQUIAS   ', NO
+'#DilesNOA DERROCAR A LAS OLIGARQUIAS Y AL CUANTICO TRAIDOR ......ASI SE UNAN NO VENCERAN A LOS PUEBLOS LUCHARE  ', NO
+'#DilesNOSe desvanece la CONSULTA CORRUPTA MAOSA E INCONSTITUCIONALVENCERAN LOS MANDANTES LOS DUEOS DE LA  ', NO
+'#Ecuador ya est disponible #SiPudiera el nuevo single de @DavidDeMaria  escuchadlo   ', SI
+'#EcuadorDiceS a la Ley de Plusvala. Votemos S al empleo S a la construccin.#VotaTodoS #TodoS  ', SI
+'#EcuadorDiceS erecto y altivo..todo s, ', SI
+'#EcuadorDiceS para que los pedofilos paguen cadena perpetua, ', SI
+'#EcuadorDiceS por un mejor futuro para cada familia ecuatoriana.  ', SI
+'#EcuadorDiceS todo todito raya Si, ', SI
+'#EcuadorDiceS y 7 veces #EcuadorDiceS, ', SI
+'#GuayasDiceS  En la consulta popular se expresa la voluntad de los ecuatorianos  #CierreCampaa @marialevicuna  ', SI
+'#GuayasDiceS  En la consulta popular se expresa la voluntad de los ecuatorianos  #ConsultaPopular @marialevicuna  ', SI
+'#GuayasDiceS Guayaquil .....Ecuador entero, ', SI
+'#LGBT hace un llamado para votar No en preguntas 2 3 6 de la #ConsultaPopular o #7VecesNo #PorLaPatriaDilesNO  ', NO
+'#PorLaPatriaDilesNONO A LOS VENDE PATRIA  ', NO
+'#PorLaPatriaDilesNOOOEL #NO  GANA Y SUPERA LAS ENCUESTAS LO QUE NO RECONOCE LOS MEDIOS MERCANTILISTASEn la Consu  ', NO
+'#PorLaPatriaDilesNOOOEL  #NO  GANA Y SUPERA LAS ENCUESTAS LO QUE NO RECONOCE LOS MEDIOS MERCANTILISTASEn la C  ', NO
+'#PorLaPatriaDilesNOOOEL  #NO  GANA Y SUPERA LAS ENCUESTAS LO QUE NO RECONOCE LOS MEDIOS MERCANTILISTASEn la  ', NO
+'#PorLaPatriaDilesNOOOEL  #NO  GANA Y SUPERA LAS ENCUESTAS LO QUE NO RECONOCE LOS MWDIOS MERCANTILISTASEn la  ', NO
+'#PorLaPatriaDilesNOOOEL  #NO  GANA Y SUPERA LAS ENCUESTAS LO QUE NO RECONOCE LOS MWDIOS MERCANTILISTASEn la  ', NO
+'#Resultados2018Un #Si que le est dando como bombo en fiesta al #No Brutal Damas y Caballeros BRUTAL, ', SI
+'#SieteVecesS por la libertad y una patria mejor.#Ecuador #ConsultaPopular2018 #ConsultaPopularEC  ', SI
+'#TerceraVaECUADORColegio Provincia de ChimborazoColegio Rosario Snchez BrunoGuayaquil Zona 8Presentes  ', SI
+'#TerceraVaECUADOR Agradecemos invitacin a la reunin de Lideres y Directivos OSC Organizaciones Sociedad Civil p  ', SI
+'#TerceraVaECUADOR Ejercicio del Voto de la Ciudadania INDEPENDIENTE en #ReferendumConsultaPopular2018febrero04  ', SI
+'#TerceraVaECUADOR Reunin  Decisiones ....  ', SI
+'#TerceraVaECUADOR Seguimiento proceso electoral #ReferendumConsultaPopular2018febrero04  ', SI
+'#TerceraVaECUADOR Un honor realizar Seguimiento Elecciones 20172018 desde La Participacin Estudiantil con GpRD  ', SI
+'#VotaTodoS  es el grito de Ecuador, ', SI
+'#VotaTodoS por un pais nuevo....no por lenin, ', SI
+'#YoVotoNO por la Patria y con infinito amor...  ', NO
+'#YoVotoNO porque el @cnegobec debe estar vigilante de este tipo de acciones en los territorios  ', NO
+'#YoVotoNO Porque no practicamos ni promocionamos la violencia poltica  ', NO
+' Triunfo nacional #SiTriunfo Latinoamrica #SI Verde #NO  ', SI
+'  #YoVotoNO gracias mi eterno Presi @MashiRafael  ', NO
+'7 Veces SI  #PorMiPais #PorLasFamiliasEcuatorianas #PorMiFamilia #7VecesSi #YoCREOEnLaConsulta  ', SI
+'7 veces si vamos pas a terminar con la dcada de divisin y odio., ', SI
+'7 veces s  ', SI
+'7 veces siiiiiiii ...  ', SI
+'A cumplir con el deber antes que salga el sol #SI #7VecesS, ', SI
+'A la de regresin de Derechos a la 2  #DilesNO #7VecesNO a la #ConsultaPopularEC @EcuadorRC @MashiRafael  ', NO
+'A los traidores se le dise NOOOOO  ', NO
+'A votar #7VecesS en Liceo Aeronautico FAE # 2  ', SI
+'A votar Ya con nueva votante en casa AABC 7 veces si, ', SI
+'Ah est tu aerosol @ricardopatinoec  #7VecesSI  ', SI
+'Ahora S #SieteVecesSI  #ConsultaEc, ', SI
+'Asi desprecia Quinind a los prepotentes y corruptos @MashiRafael ........todo Ecuador votar Si #7VecesSi  ', SI
+'Asi votar yo 1 SI 2 SI 3 SI 4 SI 5 SI 6 SI 7 SI #Si7VecesSi, ', SI
+'Bien doa Irina #EcuadorDiceS   ', SI
+'Brotheeeeer como pueden hablar con traidores, ', NO
+'Buena campaa por el S del traidor @Lenin pero como es de suponer ellos dirn que no tienen nada que ver en esto.  ', NO
+'Caravana de cierre de campaa #NO a las preguntas 2 3 y 6 de la #ConsultaMaosa #EcuadorDiceNO  Esa ser la consig  ', NO
+'Certificado emplasticado.a solo 025 #ConsultaPopular #7VecesS, ', SI
+'Con decisin y firmeza me dirijo a votar #YoVotoNO. #PorLaPatriaDilesNO. #7vecesNO, ', NO
+'Con profundo amor por la Patria en las urnas y en las redes el pueblo dice #YoVotoNO a la consulta maosa de la d  ', NO
+'Con tu voto este domingo gana el Ecuador  #VotaTodoS #7VecesSi #GuayasVotaS @GAFT75 @PaulGranda @Lenin  ', SI
+'Contigo 7 veces si., ', SI
+'Cualquiera vota no en todo excepto en las preguntas de los abusadores sexuales contra menores y para q los corrupt  ', NO
+'Cumpliendo con la democracia #Ecuador #7VecesSI #Nios #Naturaleza #Corrupcin #Construccin  ', SI
+'Cumpliendo con la democracia #Ecuador #7VecesSI #Nios #Naturaleza #Corrupcin #Construccin  ', SI
+'De Babyshower en el Sur #FelizFinDeSemana #FelizSbado Y tambin #DilesNO   ', NO
+'Depende de nosotros. #7vecesSi                         #7VecesNO  ', NO
+'Despus de votar #7VecesSi vamos por tacos californianos., ', SI
+'Ecuador dice SI #VotaTodoS, ', SI
+'El da caluroso con un sol radiante sal a sufragar camin dos kilmetros pero bueno mi voto fue.. #YoVotoNO  ', NO
+'El Guasmo a full con el #NO. #DurnPresente #EcuadorDiceNO #DilesNo #NOaLaViolenciaMoreNO  ', NO
+'El traidor 7vecesNo  @EcuadorRC  @MashiRafael @GabrielaEsPais  ', NO
+'El vago traidor recin se acuerda de salir a la calles. Impresentable este tipo  ', NO
+'Estn desesperados no saben como detener al gigante @MashiRafael. Este 4 de febrero todos a votar #7VecesNO a la  ', NO
+'Esto no es pagado es pueblo organizado. #DurnDiceNO #EcuadorDiceNO #DurnDiceNo#GuayasDiceNo  ', NO
+'Felicitaciones @Lenin MoreNO por ser el tercer poltico en el mundo con ms cuentas falsas segn este estudio publ  ', NO
+'Gracias Manab. La Patria resucitar. #YoVotoNO #NOALaTrampaMoreNO  ', NO
+'Gran alegra esta noche en el cierre de campaa en Guayaquil #GuayasDiceNO #EcuadorDiceNO al  ', NO
+'Gran cierre de campaa por el #7VecesNO.. As dejamos confirmado que el NO les da palo y de largo a la consulta ma  ', NO
+'Gran director y ser humano #GuayasDiceS   ', SI
+'He votado #7VecesS... como lo dije desde el principioQue se sepa., ', SI
+'Hoy iniciamos #TerceraVaECUADOR  como Ciudadania y sus OSC Organizaciones Sociedad Civil INDEPENDIENTES desde el R  ', SI
+'Hoy se inicia #TerceraVaECUADOR #Vota7vecesS #ReferendumConsultaPopular2018febrero04 en  ', SI
+'Hoy todos contra el traidor, ', NO
+'Jajajaja #consultapopular2018 despus de votar por el #Si yo tan en Guayas  ', SI
+'Junto a un gran amigo y compaero de lucha  @CesarRohon  durante el cierre de campaa en la 29 y la Q#VotaS en  ', SI
+'La consigna de hoy #YoVotoNO   ', NO
+'Las imgenes hablan por S solas #7VecesS  ', SI
+'Llueve sin parar y no el da de la ley seca... Aunque el pas se detenga x algunos traidores seguiremos adelante..  ', NO
+'Los compatriotas migrantes ecuatorianos en Madrid apoyan con alegra el NO. Dirn #7VecesNO a #LaConsultaMaosa. L  ', NO
+'Los delegados del #Si ojo en est provincia ....Aqu estn los patos del fraude electoral... #Manab @VamosLenin  ', SI
+'Los observadores de la @OEAoficial han escuchado cada argumento de lo insconstitucional de la consulta #YoVotoNO  ', NO
+'Maana tenemos la oportunidad de regalarnos un nuevo Ecuador  #ATuFuturoDileS #7VecesSi @GAFT75 @PaulGranda  ', SI
+'Mi hermana es de las despistadas que va a votar sin cdula  #VotacionesEcuador #EcuadorDiceSi #RecorderisParaClaudia, ', SI
+'Mi voto #7VecesS por el Cambio por el Empleo por nuestros Hijos por el pas que aspira la gran mayora de los e  ', SI
+'No a los traidores  ', NO
+'No volvamos al pasado 7 veces #DilesNO  en Guayaquil Ecuador  ', NO
+'Nuestro total apoyo @jimmyjairala #7VecesS en la consulta popular   ', SI
+'Nunca pese que serias un traidor NO ALA CONSULTA TODO NOOOO  ', NO
+'Para contribuir con Salud Unin y Desarrollo SAUDE dice  hoy 7 veces S #VotaTodoS el prximo domingo  ', SI
+'Para incentivar y reactivar el sector de la construccin que genera miles de empleos vamos a decir #7VecesS  ', SI
+'Para permitirnos hacer realidad el sueo de todos los ecuatorianos de tener el pais que queremos #7VecesS  ', SI
+'Por estos hechos impresentables e inolvidables tambin vot 7 veces s.  ', SI
+'Por inconstitucional ilegal e ilegtima a la #ConsultaPopular2018 #YoVotoNO Misin cumplida @MashiRafael  ', NO
+'Porque Juntos haremos realidad el sueo del Ecuador  que todos queremos #VotaTodoSi #7VecesSi @GAFT75 @PaulGranda  ', SI
+'Porque quiero al Ecuador  y quiero que mis hijos estn orgullosos del pas donde nacieron #VotaTodoSi  ', SI
+'Que Berguenza con B de Burros.. #7VecesNO a los Neoliberales..    @teleSURtv  ', NO
+'Recorrido por nuestra Provincia Orgullosamente Montuvios llegando con el Mensaje de la  Consulta Popular #7VecesSi  ', SI
+'ROL Mujeres Juventud iniciamos una #TerceraVa como Comunidades Resilientes .#Vota7VecesS  ', SI
+'Se inicia #TerceraVaECUADOR#Vota7vecesS. #ReferendumConsultaPopular2018febrero04  ', SI
+'Se vivi una fiesta #GuayasDiceS y #7VecesS @Lenin  ', SI
+'Si en Ecuador se lanzan huevos es por que nos sobran huevos #7VecesS #vamosporels, ', SI
+'suburbio de Guayaquil tambien arroja huevos #7VecesSi, ', SI
+'Todas las preguntas de la #ConsultaPopular2018 tienen ms del 70 de votos a favor del S. Es literalmente una paliza #7VecesSi, ', SI
+'Todos a votar masivamente pir el Si #EcuadorDiceS rt  ', SI
+'Un #NO rotundo lleno de indignacin a la #ConsultaMaosa#YoVotoNO#7VecesNOEl 4 de febrero se le terminar el sh  ', NO
+'Ya deja de llorar borrego maricon 7 veces si CDTM  ', SI
+'Ya me vi el final de #SilvanaSinLana , ', SI
+'ya voye #VotaTodoS y lo hice para NO MAS TEELECCION....LE QUEDO CLARO   @pameaguirre1, ', SI
+'Yo rayar todo NO #PorLaPatriaDilesNO  ', NO
+'Yo tambin quiero #VotoEnCasa , ', SI
+
