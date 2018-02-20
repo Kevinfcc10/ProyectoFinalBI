@@ -31,7 +31,7 @@ USO DE LAS HERRAMIENTAS
 
 4. Ejecutar el script ProyectoFinalBi.java
 
-ANALISIS - FUNCIONAMIENTO
+ANÁLISIS - FUNCIONAMIENTO
 
 El algoritmo para filtrar los tweets de la consulta, funciona en base a la búsqueda de palabras en el texto, estas
 palabras son los hashtags que se utilizaron en la consulta popular.
@@ -39,7 +39,7 @@ palabras son los hashtags que se utilizaron en la consulta popular.
 Para el entrenamiento y test se utilzaron los archivos creados con el mismo programa en Netbeans y utilizando el 
 algoritmo de nayve bayes.
 
-ANALISIS DE RESULTADOS
+RESULTADOS
 
 1.  En la ciudad de Quito el 63.62% de las personas se inclinó por el SI y solamente un 36.38% se inclinó por el NO.
 2.  En la cuidad de Guayaquil el 63.08% de la población se inclinó por el SI, por otro lado, el 36.92% de los
