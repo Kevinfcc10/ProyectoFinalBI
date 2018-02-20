@@ -1,0 +1,8 @@
+//Función para filtrar los datos en base al país, ciudad y en idioma español
+//Se debe cambiar en el campo doc.place.name con el nombre de la ciudad a filtrar.
+
+function (doc) {
+  if(doc.lang =="es" && doc.place.country_code =="EC" && doc.place.name =="Quito" ){
+    emit(doc.text, doc)
+  }
+}
